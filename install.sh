@@ -27,6 +27,7 @@ cd clawpack-$version
 #python setenv.py
 source setenv.bash
 source setenv.csh
-
+cat setenv.bash >> ~/.bashrc
+cat setenv.csh >> ~/.cshrc
 
 

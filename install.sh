@@ -1,7 +1,9 @@
 #!/bin/bash
+clear
 version=4.6.3
 
 # Create Installing PATH
+cd /
 mkdir Clawpack
 cd Clawpack
 

@@ -15,6 +15,7 @@ sudo apt-get install -y git
 sudo apt-get install -y git-core
 sudo apt-get install -y python-dev
 sudo apt-get install -y python-numpy
+sudo apt-get install -y python-scipy
 sudo apt-get install -y python-matplotlib
 
 # Download clawpack 4.6.3
